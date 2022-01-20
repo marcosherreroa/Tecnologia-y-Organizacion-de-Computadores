@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/hlocal/Practica2/Practica2.sim/sim_1/impl/func/xsim/cerrojo_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StateMachine
+INFO: [VRFC 10-311] analyzing module cerrojo
+INFO: [VRFC 10-311] analyzing module debouncer
+INFO: [VRFC 10-311] analyzing module passwordReg
+INFO: [VRFC 10-311] analyzing module glbl

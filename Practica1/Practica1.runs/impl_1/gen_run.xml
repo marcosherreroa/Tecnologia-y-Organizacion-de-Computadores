@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1569256423">
+  <File Type="BITSTR-BMM" Name="ContadorMod16_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="ContadorMod16_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="ContadorMod16_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="ContadorMod16_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="ContadorMod16.tcl"/>
+  <File Type="OPT-TIMING" Name="ContadorMod16_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="ContadorMod16_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="ContadorMod16_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="ContadorMod16_reports.tcl"/>
+  <File Type="OPT-DRC" Name="ContadorMod16_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="ContadorMod16.hwdef"/>
+  <File Type="PWROPT-DCP" Name="ContadorMod16_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="ContadorMod16_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="ContadorMod16_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="ContadorMod16_placed.dcp"/>
+  <File Type="PLACE-IO" Name="ContadorMod16_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="ContadorMod16_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="ContadorMod16_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="ContadorMod16_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="ContadorMod16_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="ContadorMod16_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="ContadorMod16_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="ContadorMod16.bgn"/>
+  <File Type="PLACE-TIMING" Name="ContadorMod16_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="ContadorMod16_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="ContadorMod16.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="ContadorMod16_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="ContadorMod16_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="ContadorMod16_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="ContadorMod16.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="ContadorMod16_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="ContadorMod16_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="ContadorMod16_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="ContadorMod16_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="ContadorMod16_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="ContadorMod16_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="ContadorMod16.ltx"/>
+  <File Type="ROUTE-DRC-RPX" Name="ContadorMod16_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="ContadorMod16.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="ContadorMod16_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="ContadorMod16_methodology_drc_routed.rpx"/>
+  <File Type="BITSTR-SYSDEF" Name="ContadorMod16.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="ContadorMod16_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="ContadorMod16_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="ContadorMod16_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="ContadorMod16_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="ContadorMod16_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="ContadorMod16_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="ContadorMod16_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="ContadorMod16_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="ContadorMod16_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="ContadorMod16_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="ContadorMod16_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="ContadorMod16_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="ContadorMod16_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="ContadorMod16_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="ContadorMod16_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="ContadorMod16_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="ContadorMod16_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="ContadorMod16_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="ContadorMod16_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="ContadorMod16.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="ContadorMod16_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="ContadorMod16.rbt"/>
+  <File Type="BITSTR-NKY" Name="ContadorMod16.nky"/>
+  <File Type="BG-DRC" Name="ContadorMod16.drc"/>
+  <File Type="RDI-RDI" Name="ContadorMod16.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/Practica1/divisor.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/divisor.vhd"/>
+        <Attr Name="ImportTime" Val="1569223164"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Practica1/registro.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/registro.vhd"/>
+        <Attr Name="ImportTime" Val="1569162735"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/Practica1/sumador.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/sumador.vhd"/>
+        <Attr Name="ImportTime" Val="1569162726"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ContadorMod16.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="ContadorMod16"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/Ficheros/pins.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/imports/Ficheros/pins.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

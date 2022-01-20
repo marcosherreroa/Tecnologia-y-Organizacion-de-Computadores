@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1.1 (64-bit)
+# SW Build 2580384 on Sat Jun 29 08:12:21 MDT 2019
+# IP Build 2579722 on Sat Jun 29 11:35:40 MDT 2019
+# Start of session at: Tue Dec 10 16:48:16 2019
+# Process ID: 1488
+# Current directory: C:/hlocal/Practica6/MIPSMulticiclo_R3yModoDepuracion.sim/sim_1/impl/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/hlocal/Practica6/MIPSMulticiclo_R3yModoDepuracion.sim/sim_1/impl/func/xsim/xsim.dir/TestBenchMIPSMulticiclo_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/hlocal/Practica6/MIPSMulticiclo_R3yModoDepuracion.sim/sim_1/impl/func/xsim/webtalk.log
+# Journal file: C:/hlocal/Practica6/MIPSMulticiclo_R3yModoDepuracion.sim/sim_1/impl/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/hlocal/Practica6/MIPSMulticiclo_R3yModoDepuracion.sim/sim_1/impl/func/xsim/xsim.dir/TestBenchMIPSMulticiclo_func_impl/webtalk/xsim_webtalk.tcl -notrace

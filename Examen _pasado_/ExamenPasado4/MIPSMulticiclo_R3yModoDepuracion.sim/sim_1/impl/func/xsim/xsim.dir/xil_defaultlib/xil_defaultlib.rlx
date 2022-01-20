@@ -1,0 +1,7 @@
+0.6
+2019.1
+Jun 29 2019
+08:46:09
+C:/hlocal/Practica6/MIPSMulticiclo_R3yModoDepuracion.sim/sim_1/impl/func/xsim/TestBenchMIPSMulticiclo_func_impl.vhd,1575992222,vhdl,,,,alu;bancoderegistros;dcm_100mhz_10mhz;dcm_100mhz_10mhz_dcm_100mhz_10mhz_clk_wiz;debouncer;displays;mem32x512;mem32x512_blk_mem_gen_generic_cstr;mem32x512_blk_mem_gen_prim_width;mem32x512_blk_mem_gen_prim_wrapper_init;mem32x512_blk_mem_gen_top;mem32x512_blk_mem_gen_v8_4_3;mem32x512_blk_mem_gen_v8_4_3_synth;memoria;mipsmulticiclo;registro;registro_0;registro_1;registro_2;registro_3;rutadedatos;unidaddecontrol,,,,,,,,
+C:/hlocal/Practica6/MIPSMulticiclo_R3yModoDepuracion.sim/sim_1/impl/func/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/hlocal/Practica6/ficheros/TestBenchMIPSMulticiclo.vhd,1575991379,vhdl,,,,testbenchmipsmulticiclo,,,,,,,,

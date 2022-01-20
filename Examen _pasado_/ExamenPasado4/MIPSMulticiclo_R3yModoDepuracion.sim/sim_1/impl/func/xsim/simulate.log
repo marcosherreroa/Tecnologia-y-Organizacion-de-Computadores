@@ -1,0 +1,8 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Stopped at time : 1050 ns : File "C:/hlocal/Practica6/ficheros/TestBenchMIPSMulticiclo.vhd" Line 48
+Stopped at time : 1150 ns : File "C:/hlocal/Practica6/ficheros/TestBenchMIPSMulticiclo.vhd" Line 48
+Stopped at time : 1250 ns : File "C:/hlocal/Practica6/ficheros/TestBenchMIPSMulticiclo.vhd" Line 48
+Stopped at time : 1350 ns : File "C:/hlocal/Practica6/ficheros/TestBenchMIPSMulticiclo.vhd" Line 48
+Warning: Warning : [Unisim MMCME2_ADV-162] input CLKIN1 period and attribute CLKIN1_PERIOD are not same.
+Time: 17650 ns  Iteration: 5  Process: /TestBenchMIPSMulticiclo/uut/reloj/inst/mmcm_adv_inst/pchk_p  File: C:\Xilinx\Vivado\2019.1\data/vhdl/src/unisims/primitive/MMCME2_ADV.vhd

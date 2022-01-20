@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1.1 (64-bit)
+# SW Build 2580384 on Sat Jun 29 08:12:21 MDT 2019
+# IP Build 2579722 on Sat Jun 29 11:35:40 MDT 2019
+# Start of session at: Sun Oct  6 12:34:09 2019
+# Process ID: 7060
+# Current directory: C:/hlocal/Practica2/Practica2.sim/sim_1/impl/func/xsim
+# Command line: wbtcv.exe -mode batch -source C:/hlocal/Practica2/Practica2.sim/sim_1/impl/func/xsim/xsim.dir/cerrojo_func_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/hlocal/Practica2/Practica2.sim/sim_1/impl/func/xsim/webtalk.log
+# Journal file: C:/hlocal/Practica2/Practica2.sim/sim_1/impl/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/hlocal/Practica2/Practica2.sim/sim_1/impl/func/xsim/xsim.dir/cerrojo_func_impl/webtalk/xsim_webtalk.tcl -notrace

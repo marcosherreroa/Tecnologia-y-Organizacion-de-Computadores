@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"TestBenchMIPSMulticiclo_func_impl.vhd" \
+"../../../../../ficheros/TestBenchMIPSMulticiclo.vhd" \
+
+# Do not sort compile order
+nosort

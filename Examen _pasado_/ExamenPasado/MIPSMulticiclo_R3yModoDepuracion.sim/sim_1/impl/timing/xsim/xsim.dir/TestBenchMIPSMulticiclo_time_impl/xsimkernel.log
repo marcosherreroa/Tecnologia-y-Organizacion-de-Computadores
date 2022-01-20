@@ -1,0 +1,7 @@
+Running: xsim.dir/TestBenchMIPSMulticiclo_time_impl/xsimk.exe -simmode gui -wdb TestBenchMIPSMulticiclo_time_impl.wdb -simrunnum 0 -socket 58280
+Design successfully loaded
+Design Loading Memory Usage: 49368 KB (Peak: 49368 KB)
+Design Loading CPU Usage: 202 ms
+Simulation completed
+Simulation Memory Usage: 62824 KB (Peak: 62824 KB)
+Simulation CPU Usage: 436 ms

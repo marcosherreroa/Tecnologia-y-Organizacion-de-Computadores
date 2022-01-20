@@ -1,0 +1,28 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'ALU'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/MIPSMulticiclo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MIPSMulticiclo'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/bancoDeRegistros.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bancoDeRegistros'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/conv_7seg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'conv_7seg'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/debouncer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'debouncer'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/displays.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'displays'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/memoria.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memoria'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/multiplexor2a1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexor2a1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/multiplexor4a1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexor4a1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/MIPSMulticiclo_R3yModoDepuracion.srcs/sources_1/new/multiplexor8a1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'multiplexor8a1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/registro.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registro'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/rutaDeDatos.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rutaDeDatos'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/unidadDeControl.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'unidadDeControl'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/hlocal/ExamenPasado2/ficheros/TestBenchMIPSMulticiclo.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'TestBenchMIPSMulticiclo'

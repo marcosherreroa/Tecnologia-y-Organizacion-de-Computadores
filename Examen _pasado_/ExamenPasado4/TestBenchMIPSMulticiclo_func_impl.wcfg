@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TestBenchMIPSMulticiclo_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TestBenchMIPSMulticiclo" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1687341466666fs"></ZoomStartTime>
+      <ZoomEndTime time="1698301466667fs"></ZoomEndTime>
+      <Cursor1Time time="1694341467000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="105"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/clk_period" type="other">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/UC/currentState" type="other">
+      <obj_property name="ElementShortName">currentState</obj_property>
+      <obj_property name="ObjectShortName">currentState</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/op" type="array">
+      <obj_property name="ElementShortName">op[5:0]</obj_property>
+      <obj_property name="ObjectShortName">op[5:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/R3" type="array">
+      <obj_property name="ElementShortName">R3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">R3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/Zero" type="logic">
+      <obj_property name="ElementShortName">Zero</obj_property>
+      <obj_property name="ObjectShortName">Zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/PC" type="array">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/RD/banco_registros/bancoDeRegistros[0]" type="array">
+      <obj_property name="ElementShortName">[0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[0][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/RD/banco_registros/bancoDeRegistros[1]" type="array">
+      <obj_property name="ElementShortName">[1][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[1][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/RD/banco_registros/bancoDeRegistros[2]" type="array">
+      <obj_property name="ElementShortName">[2][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[2][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/RD/banco_registros/bancoDeRegistros[4]" type="array">
+      <obj_property name="ElementShortName">[4][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[4][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/RD/busW" type="array">
+      <obj_property name="ElementShortName">busW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">busW[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/RD/IR" type="array">
+      <obj_property name="ElementShortName">IR[31:0]</obj_property>
+      <obj_property name="ObjectShortName">IR[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TestBenchMIPSMulticiclo/uut/regMostrado" type="array">
+      <obj_property name="ElementShortName">regMostrado[7:0]</obj_property>
+      <obj_property name="ObjectShortName">regMostrado[7:0]</obj_property>
+   </wvobject>
+</wave_config>

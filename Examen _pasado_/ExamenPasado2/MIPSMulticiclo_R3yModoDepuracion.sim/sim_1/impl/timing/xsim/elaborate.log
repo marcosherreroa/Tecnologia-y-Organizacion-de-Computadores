@@ -1,0 +1,60 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 27487a3b62c247ce8013a612ecaeb022 --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot TestBenchMIPSMulticiclo_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.TestBenchMIPSMulticiclo xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "TestBenchMIPSMulticiclo_time_impl.sdf", for root module "TestBenchMIPSMulticiclo/uut".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "TestBenchMIPSMulticiclo_time_impl.sdf", for root module "TestBenchMIPSMulticiclo/uut".
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package vl.vl_types
+Compiling module xil_defaultlib.glbl
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.x_lut3_mux8
+Compiling module simprims_ver.LUT3
+Compiling module simprims_ver.CARRY4
+Compiling module simprims_ver.LUT4
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module simprims_ver.MUXF7
+Compiling module xil_defaultlib.ALU
+Compiling module simprims_ver.FDCE_default
+Compiling module xil_defaultlib.bancoDeRegistros
+Compiling module simprims_ver.RB18_INTERNAL_VLOG(RDADDR_COLLIS...
+Compiling module simprims_ver.RAMB18E1(INIT_00=256'b0100010000...
+Compiling module xil_defaultlib.mem32x512_blk_mem_gen_prim_wrapp...
+Compiling module xil_defaultlib.mem32x512_blk_mem_gen_prim_width
+Compiling module xil_defaultlib.mem32x512_blk_mem_gen_generic_cs...
+Compiling module xil_defaultlib.mem32x512_blk_mem_gen_top
+Compiling module xil_defaultlib.mem32x512_blk_mem_gen_v8_4_3_syn...
+Compiling module xil_defaultlib.mem32x512_blk_mem_gen_v8_4_3
+Compiling module xil_defaultlib.mem32x512
+Compiling module xil_defaultlib.memoria
+Compiling module xil_defaultlib.registro
+Compiling module xil_defaultlib.registro_0
+Compiling module xil_defaultlib.registro_1
+Compiling module xil_defaultlib.registro_2
+Compiling module xil_defaultlib.registro_3
+Compiling module xil_defaultlib.rutaDeDatos
+Compiling module simprims_ver.FDPE_default
+Compiling module xil_defaultlib.unidadDeControl
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.OBUF
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1
+Compiling module simprims_ver.FDRE_default
+Compiling module xil_defaultlib.displays
+Compiling module xil_defaultlib.debouncer
+Compiling module simprims_ver.BUFG
+Compiling module simprims_ver.MMCME2_ADV(CLKFBOUT_MULT_F=15.62...
+Compiling module xil_defaultlib.DCM_100MHz_10MHz_DCM_100MHz_10MH...
+Compiling module xil_defaultlib.DCM_100MHz_10MHz
+Compiling module xil_defaultlib.MIPSMulticiclo
+Compiling architecture behavior of entity xil_defaultlib.testbenchmipsmulticiclo
+Built simulation snapshot TestBenchMIPSMulticiclo_time_impl
